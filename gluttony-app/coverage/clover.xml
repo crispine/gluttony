@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1593367179815" clover="3.2.0">
+  <project timestamp="1593367179815" name="All files">
+    <metrics statements="127" coveredstatements="118" conditionals="28" coveredconditionals="23" methods="29" coveredmethods="25" elements="184" coveredelements="166" complexity="0" loc="127" ncloc="127" packages="3" files="16" classes="16"/>
+    <package name="gluttony-app">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="config.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/config.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="gluttony-app.gluttony-client-logic.src">
+      <metrics statements="114" coveredstatements="105" conditionals="20" coveredconditionals="16" methods="21" coveredmethods="17"/>
+      <file name="add-favourite.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/add-favourite.js">
+        <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="25" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+      </file>
+      <file name="authenticate-user.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/authenticate-user.js">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="4" count="9" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="22" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+      <file name="context.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/context.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+      </file>
+      <file name="find-nearby-bars.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/find-nearby-bars.js">
+        <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="find-nearby-restaurants.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/find-nearby-restaurants.js">
+        <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="get-favourites.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/get-favourites.js">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+      <file name="get-user-comments.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/get-user-comments.js">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+      </file>
+      <file name="logout.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/logout.js">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="post-comment.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/post-comment.js">
+        <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="29" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+      <file name="register-user.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/register-user.js">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="4" count="9" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="26" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+      <file name="remove-favourite.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/remove-favourite.js">
+        <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="retrieve-user.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/src/retrieve-user.js">
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="gluttony-app.gluttony-client-logic.tests.mocks">
+      <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="7" methods="8" coveredmethods="8"/>
+      <file name="fake-client.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/tests/mocks/fake-client.js">
+        <metrics statements="8" coveredstatements="8" conditionals="8" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="20" count="8" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+      </file>
+      <file name="fake-storage.js" path="/Users/crispi/bootcampNew/collab/skylab-bootcamp-202004/staff/cristina-gutierrez/gluttony/gluttony-app/gluttony-client-logic/tests/mocks/fake-storage.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="5" count="14" type="stmt"/>
+        <line num="9" count="19" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
